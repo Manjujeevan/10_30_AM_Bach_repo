@@ -1,0 +1,27 @@
+Problem Statement:
+
+Understanding and implementing the Python print() function.
+
+🔹 Technology Stack: Python
+
+🔹 Tools Used:
+Python
+💻 VS Code
+📓 Jupyter Notebook
+
+🔹 Topics Covered:
+• Python print() Function
+• Printing text and values
+• Multiple values using print()
+• Real-time usage and practical examples
+
+🔹 Real-Time Usage:
+The print() function is commonly used for displaying output, debugging programs, checking variable values, and understanding program execution flow.
+
+🔗 Repository URL:
+[Add your GitHub Repository URL here]
+
+📚 Day 2 completed successfully!
+Continuing my journey of strengthening my Python Programming Fundamentals. 🚀
+
+#TechPandaAcademy #GenAI #GenerativeAI #Python #PythonProgramming #PythonCoding #PythonFundamentals #JupyterNotebook #VSCode #GitHub #LearningJourney #GenAIEngineer
