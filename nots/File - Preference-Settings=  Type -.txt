@@ -1,0 +1,1 @@
+File -> Preference->Settings= > Type - terminal integrated default profile windows select command prompt
