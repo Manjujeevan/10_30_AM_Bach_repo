@@ -1,5 +1,5 @@
-x = (10,20,30,40,50)
-y = (10,20,30,40,50)
+a = 1
 
-print(x != y)
-print( x is y)
+while a>0:
+    print(a,end=" ")
+    a += 1
