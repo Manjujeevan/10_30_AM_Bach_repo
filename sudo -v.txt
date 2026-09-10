@@ -1,0 +1,7 @@
+sudo -v
+
+sudo passwd root
+
+New password:
+
+Retype new password:

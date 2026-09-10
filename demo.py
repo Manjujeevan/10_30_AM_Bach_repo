@@ -1,5 +1,6 @@
-a = 1
+x = {"A":100,"B":200,"C":300,}
+y = {"A":100,"B":200,"C":300,}
 
-while a>0:
-    print(a,end=" ")
-    a += 1
+
+print(x,type(x),id(x))
+print(y,type(y),id(y))
