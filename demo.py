@@ -1,6 +1,6 @@
-x = {"A":100,"B":200,"C":300,}
-y = {"A":100,"B":200,"C":300,}
+import qrcode 
 
 
-print(x,type(x),id(x))
-print(y,type(y),id(y))
+
+mn = qrcode.make()
+mn.save("myno1.jpg")
