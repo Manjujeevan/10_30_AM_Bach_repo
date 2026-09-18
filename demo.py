@@ -1,6 +1,8 @@
-import qrcode 
+# help()
 
+# # eval()
 
+# eval('print("hello world")')
 
-mn = qrcode.make()
-mn.save("myno1.jpg")
+exec('print("Hello world_1")\nprint("Hello world_2")\nprint("Hello world_3")')
+
